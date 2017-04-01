@@ -1,0 +1,5 @@
+1.通讯层 netty
+2.数据层 mybatis
+3.消息分发 Spring
+4.逻辑层 业务逻辑manager，工具类Utils
+5.协议 protobuf
